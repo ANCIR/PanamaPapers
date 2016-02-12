@@ -1,0 +1,101 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <div class="masthead">
+    <div class="masthead-outer"
+         style="{% if page.masthead_pic %}background-image: url('{{ page.masthead_pic }}');{% endif %}">
+      <div class="masthead-inner darken">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-1">
+              <h1>{{ page.title }}</h1>
+              <br/> <br/>
+
+              {% assign publisher = site.data.publishers[page.publisher] %}
+              {% assign country = site.data.countries[publisher.country] %}
+
+              <p><em>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.publisher %} • <a href="{{ page.original_url }}" target="_blank">{{ publisher.name }}, {{ country.name }}</a>{% endif %}</em></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <article>
+    <div class="container-content container">
+      <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 col-md-6">
+
+          <div class="addthis_sharing_toolbox"></div>
+          <br/>
+
+          {{ content }}
+
+          <hr/>
+
+          <div class="addthis_sharing_toolbox"></div>
+
+          {% include fb-comments.html %}
+
+          <hr class="visible-xs visible-sm"/>
+        </div>
+        <div class="col-sm-1 visible-sm"></div> <!-- Fix facebook things. -->
+        <div class="clearfix visible-sm visible-xs"></div>
+        <div class="col-sm-10 col-sm-offset-1 col-md-4">
+          <div class="row">
+            <div class="col-sm-6 col-md-12">
+              {% include afrileaks-embed.html %}
+              <hr class="hidden-sm"/>
+            </div>
+            <div class="col-sm-6 col-md-12">
+
+              <div class="panel panel-default actnow text-center">
+                <div class="panel-body">
+                  <img src="/img/logos/actnow.png" class="logo"/>
+                  <h1>actNOW!</h1>
+
+                  <p>Register for updates and alerts on ANCIR Investigations.</p>
+
+                  <form
+                      action="//investigativecenters.us6.list-manage.com/subscribe/post?u=65e5825507b3cec760f272e79&amp;id=786f5d20f3"
+                      method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+                      class="form-inline validate" target="_blank" novalidate>
+                    <div class="form-group">
+                      <label class="sr-only" for="actnow-email">Email</label>
+
+                      <div class="input-group">
+                        <div class="input-group-addon"><i class="fa fa-envelope"></i></div>
+                        <input type="email" class="form-control" name="EMAIL" id="actnow-email"
+                               placeholder="Email Address"/>
+
+                    <span class="input-group-btn">
+                      <button class="btn btn-default" type="button">Submit</button>
+                    </span>
+                      </div>
+                      <span id="helpBlock" class="help-block">* We don't do spam, we do awesome.</span>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <!-- /.panel -->
+
+            </div>
+            <!-- /.col-sm-6.col-md-12 -->
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+</div>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55a570b52fc7a283"
+        async="async"></script>
+

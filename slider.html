@@ -1,0 +1,14 @@
+---
+layout: page
+
+custom_js: slider
+---
+
+{% for series in site.data.home-more-series %}
+<a name="{{ series.slide_id }}" class="anchor"></a>
+{% endfor %}
+
+<div class="slider">
+  <iframe src="http://projects.icij.org/fatalextraction/" frameborder="0"
+          style="height: 720px; width: 100%;"></iframe>
+</div>

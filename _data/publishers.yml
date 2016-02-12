@@ -1,0 +1,34 @@
+mmegi:
+  country: botswana
+  name: Mmegi
+lexpress:
+  country: madagascar
+  name: L'Express
+depechesdumali:
+  country: mali
+  name: Depeches du Mali
+nyasatimes:
+  country: malawi
+  name: Nyasa Times
+thenamibian:
+  country: namibia
+  name: The Namibian
+dailynews:
+  country: tanzania
+  name: Daily News
+l-economiste-du-faso:
+  country: burkinafaso
+  name: L'Economiste du Faso
+abidjan-live-news:
+  country: cotedivoire
+  name: Abidjan Live News
+citi-fm:
+  country: ghana
+  name: CitiFM
+financial-mail:
+  country: southafrica
+  name: Financial Mail
+ouestaf:
+  country: senegal
+  name: Ouestaf
+  website: http://www.ouestaf.com

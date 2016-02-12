@@ -1,0 +1,18 @@
+.mafrica-vis .hotspot:hover {
+    stroke: #000;
+    opacity: 0.8;
+    fill: #b5b5b5;
+    /* Transizione on hover 0.6 secondi */
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+    cursor: pointer;
+}
+
+.mafrica-vis .interactiveNS:hover {
+    stroke: #000;
+    opacity: 0.8;
+    fill: #b5b5b5;
+    /* Transizione on hover 0.6 secondi */
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+}

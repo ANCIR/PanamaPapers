@@ -1,0 +1,119 @@
+<header>
+
+  <div class="masthead">
+    <div class="masthead-outer">
+      <div class="masthead-inner">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4 col-sm-offset-2 visible-xs logo">
+              <img class="img-responsive center-block" src="{{ '/img/logo_white.png' | prepend: site.baseurl }}"/>
+
+              <h1>A.N.C.I.R</h1>
+              <hr style="margin-top: 30px;"/>
+            </div>
+            <div class="col-sm-7 col-md-6">
+              <h1>{{site.title}}</h1>
+              <h2>{{ site.sub_title }}</h2>
+            </div>
+            <div class="col-sm-5 col-md-4 col-md-offset-2 hidden-xs logo">
+              <a href="http://investigativecenters.org/" target="_blank">
+                <img class="img-responsive center-block" src="{{ '/img/logo_white.png' | prepend: site.baseurl }}"/>
+                <h1>A.N.C.I.R</h1>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+          <span class="fa fa-home"></span>
+        </a>
+        <span style="display: none;" id="navbar-brand-up">
+          <span class="fa fa-home"></span>
+        </span>
+        <span style="display: none;" id="navbar-brand-scrolled">
+          <img src="{{ '/img/logo_white.png' | prepend: site.baseurl }}"/>
+          {{ site.title }}
+        </span>
+
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-left">
+          <li class="hidden-xs"><a href="#" id="second-nav-btn">stories <span class="caret"></span></a></li>
+          <li class="dropdown visible-xs">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">stories <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              {% for post in site.posts %}
+              {% if post.publisher %}
+              {% assign publisher = site.data.publishers[post.publisher] %}
+              {% assign country = site.data.countries[publisher.country] %}
+              <li><a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
+                {{ country.name }}
+              </a></li>
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
+          <li><a href="{{ site.baseurl }}/data.html">data</a></li>
+          <li><a href="{{ site.baseurl }}/about.html#team">team</a></li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right hidden-xs">
+          <li><a href="https://www.facebook.com/AfricaInvestigated" target="_blank"><i class="fa fa-facebook fa-lg"></i></a></li>
+          <li><a href="https://twitter.com/AfricanCIR" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
+          <li><a href="mailto:info@investigativecenters.org" target="_blank"><i class="fa fa-envelope fa-lg"></i></a></li>
+        </ul>
+
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+
+  <nav class="navbar navbar-static-top" id="second-nav" style="display: none;">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+        <ul class="nav navbar-nav">
+          {% for post in site.posts %}
+          {% if post.publisher %}
+          {% assign publisher = site.data.publishers[post.publisher] %}
+          {% assign country = site.data.countries[publisher.country] %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
+            {{ country.name }}
+          </a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+
+  <div class="navbar-filler"></div>
+
+</header>

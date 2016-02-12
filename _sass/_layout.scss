@@ -1,0 +1,433 @@
+/**
+ * Header Layout
+ * ------------- */
+
+header {
+  .navbar {
+    margin-bottom: 0;
+    background-color: $nav-gray-outer;
+    .container {
+      background-color: $nav-gray-inner;
+    }
+    &.navbar-inverse{
+      background-color: $nav-black-outer;
+      .container {
+        background-color: $nav-black-inner;
+      }
+    }
+
+    .navbar-brand {
+      border-right: 1px solid #ffffff;
+      img {
+        height: 21px;
+        vertical-align: top;
+        display: inline-block;
+      }
+      font-family: "lora", Georgia, "Times New Roman", Times, serif;
+      font-weight: bold;
+      font-size: 21px;
+      text-transform: none;
+
+      &:hover {
+        background-color: transparent!important;
+      }
+    }
+    .navbar-nav {
+      a {
+        font-family: "lora", Georgia, "Times New Roman", Times, serif;
+        font-weight: normal;
+        &:hover, &:focus {
+          text-decoration: underline;
+          background-color: transparent !important;
+          color: $brand-primary;
+        }
+      }
+    }
+  }
+}
+
+.masthead {
+
+  color: #fff !important;
+  text-align: left;
+
+  .container {
+    background-color: transparent;
+  }
+
+  .dropdown-menu {
+    z-index: 2000;
+  }
+
+  .masthead-outer {
+    background-image: url("/img/masthead.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    .masthead-inner {
+      padding: 30px 0;
+      width: 100%;
+      height: 100%;
+
+      &.darken {
+        background-color: rgba(0, 0, 0, 0.3);
+        padding: 100px 0 40px;
+        h1 {
+          margin: 0;
+          font-size: 50px;
+        }
+      }
+
+      h1, h2 {
+        color: #ffffff;
+
+      }
+      h1 {
+        font-size: 70px;
+        display: inline-block;
+        margin-bottom: 0;
+        font-weight: bold !important;
+      }
+      h2 {
+        font-size: 35px;
+        margin-bottom: 30px;
+        font-weight: normal;
+      }
+
+      .logo {
+        text-align: center;
+        img {
+          width: 150px;
+        }
+        h1 {
+          font-family: 'captured_it', 'captured_it_2', sans-serif;
+          font-weight: normal;
+          font-size: 75px;
+        }
+      }
+
+      p {
+        a {
+          color: #ffffff;
+          border-bottom: 1px solid rgba(255,255,255, 0.5);
+          &:hover {
+            border-bottom: 1px solid rgba(255,255,255, 1.0);
+            text-decoration: none;
+          }
+        }
+      }
+
+      button {
+        border-radius: 9999px;
+        padding: 15px 35px;
+        background: none;
+        border: 2px solid;
+        font-size: 15px;
+        text-transform: uppercase;
+      }
+    }
+
+  }
+
+}
+
+/* Stories Nav */
+
+#second-nav {
+
+}
+
+
+/**
+ * Page Layout
+ * ----------- */
+
+.container-content {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin-top: -6px;
+}
+
+/**
+ * Post Layout
+ * ----------- */
+
+.post {
+  font-size: 18px;
+  .container-content {
+    margin-top: 0;
+  }
+  p {
+    font-size: 18px;
+  }
+}
+
+
+/**
+ * Footer Layout
+ * ------------- */
+
+footer {
+  .icij {
+    background-color: #852308;
+    p {
+      color: #ffffff;
+      margin-right: 20px;
+      margin-top: 12px;
+      font-size: 16px;
+    }
+    img {
+      height: 71px;
+      max-width: 35%;
+    }
+  }
+
+  .ancir {
+    background-color: #000000;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    h3 {
+      font-family: 'captured_it', 'captured_it_2', sans-serif;
+      font-weight: normal;
+      color: #ffffff;
+      font-size: 60px;
+      margin: 0;
+      img {
+        height: 70px;
+        margin-right: 10px;
+      }
+    }
+
+    a {
+      color: #ffffff;
+    }
+
+    .links p {
+      font-size: 16px;
+      span {
+        margin: 0 10px;
+      }
+    }
+  }
+}
+
+/**
+ * Custom Layout
+ * ------------- */
+
+hr.branded {
+  border-color: $brand-primary-light;
+  margin-right: -30px;
+  margin-left: -30px;
+}
+
+.hyperspan {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.07);
+  }
+}
+
+.drop-cap {
+  float: left;
+  color: $gray-darker;
+  font-size: 80px;
+  line-height: 75px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: Georgia;
+}
+
+.section-title {
+  margin-top:0 ;
+  &.border-top-branded {
+    padding-top: 3px !important;
+  }
+}
+h4.section-title {
+  font-size: 22px;
+}
+.section-description {
+  border-top: 1px dotted #dfdfdf;
+  padding-top: 2px;
+}
+
+.border-top-branded {
+  border-top: 1px solid $brand-primary-light;
+}
+
+
+/**
+ * Home Layout
+ * ----------- */
+
+.home {
+  .more-series, .how-we-did-it {
+
+    .col-inner {
+      background-color: $gray-lightest;
+      padding-bottom: 5px;
+
+      & > * {
+        padding-right: 5px;
+        padding-left: 5px;
+      }
+      img, hr, a, .hyperspan {
+        padding: 0;
+      }
+
+      h2, h3, h4 {
+        margin-top: 3px;
+      }
+      h4 {
+        font-size: 20px;
+      }
+
+      position: relative;
+
+    }
+
+    img {
+      border-top: 1px solid $brand-primary-light;
+      width: 100%;
+    }
+
+    a:hover img {
+      opacity: 0.75;
+    }
+    .carousel-inner {
+      margin-bottom: 10px;
+      img {
+        min-width: 100%;
+      }
+    }
+    p:last-child {
+      margin-bottom: 20px;
+    }
+  }
+
+  .reporting-partners {
+    .logos {
+      a {
+        img {
+          padding: 10px;
+          margin: 10px;
+          height: 70px;
+          -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
+          filter: gray;
+          filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' height='0'><filter id='greyscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0' /></filter></svg>#greyscale");
+          &:hover {
+            -webkit-filter: grayscale(0%);
+            filter: grayscale(0%);
+            filter: none;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+
+/**
+ * Key Findings Layout
+ * ------------------- */
+
+.key-findings {
+  .list {
+    .media {
+      padding-top: 3px;
+      &:before {
+        width: 40%;
+        position: relative;
+        top: -2px;
+        left: 2px;
+        content: '';
+        display: block;
+        height: 1px;
+        background-color: #dcdcdc;
+      }
+      .media-left {
+        h1 {
+          margin-top: 0;
+          color: $gray-headings;
+        }
+      }
+      .media-body {
+        h4 {
+          font-weight: normal;
+          font-size: 18px;
+        }
+      }
+    }
+  }
+}
+
+
+/**
+ * AfriLEAKS Layout
+ * ---------------- */
+
+.afrileaks {
+  background: #ffff00;
+  color: #000000;
+  padding-bottom: 20px;
+
+  .media-left {
+    img {
+      margin-top: 20px;
+      width: 100px;
+    }
+  }
+
+  .media-body {
+    padding: 20px 20px 0px 2px;
+  }
+
+  .btn {
+    border-radius: 0;
+    background-color: #000000;
+    color: yellow;
+    font-family: 'afrileaks';
+    font-size: 20px;
+
+    &:hover, &:focus {
+      background-color: #000000;
+      color: yellow;
+      text-decoration: underline;
+    }
+  }
+
+}
+
+/**
+ * ActNOW Layout
+ * ------------- */
+
+.actnow {
+  img.logo {
+    width: 140px;
+  }
+  h1 {
+    margin-top: -36px;
+    margin-bottom: 10px;
+    font-family: 'actnow';
+  }
+  .btn-default {
+    background-color: #FBBF31;
+  }
+  .help-block {
+    font-size: 15px;
+    font-style: italic;
+  }
+}
+
