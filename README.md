@@ -1,2 +1,2 @@
-# Fatal Extraction
-The Human Cost of Australia's Mining Empire in Africa
+# Cost Of Life
+The impact of pharmaceutical industry's abuse of transfer pricing and thin capitalisation strategies
