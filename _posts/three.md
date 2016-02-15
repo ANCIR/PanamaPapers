@@ -3,7 +3,7 @@ layout: post
 title: "Shareholders call it golden pride mine; to residents it’s golden shame"
 
 author: Finnigan Wa Simbeye
-publisher: dailynews
+publisher: c
 original_url: http://www.dailynews.co.tz/index.php/features/47088-shareholders-call-it-golden-pride-mine-to-residents-it-s-golden-shame
 
 masthead_pic: /img/shareholders-call-it-golden-pride-mine-to-residents-it-s-golden-shame/pic_1.jpg

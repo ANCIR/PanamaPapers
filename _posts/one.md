@@ -3,7 +3,7 @@ layout: post
 title: "Mining: A question of targets"
 
 author: Rob Rose
-publisher: financial-mail
+publisher: a
 original_url: http://www.financialmail.co.za/features/2015/07/16/mining-a-question-of-targets
 
 masthead_pic: /img/mining-a-question-of-targets/pic_1.jpg

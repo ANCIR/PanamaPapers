@@ -100,15 +100,15 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
         <ul class="nav navbar-nav">
-          {% for post in site.posts %}
-          {% if post.publisher %}
-          {% assign publisher = site.data.publishers[post.publisher] %}
-          {% assign pharmaceutical = site.data.pharmaceuticals[publisher.pharmaceutical] %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
-            {{ pharmaceutical.name }}
-          </a></li>
-          {% endif %}
-          {% endfor %}
+            <li><a href="{{ site.baseurl }}" > Merck </a></li>
+            <li><a href="{{ site.baseurl }}" > Pfizer </a></li>
+            <li><a href="{{ site.baseurl }}" > Baxter </a></li>
+            <li><a href="{{ site.baseurl }}" > Amgen </a></li>
+            <li><a href="{{ site.baseurl }}" > Celgene </a></li>
+            <li><a href="{{ site.baseurl }}" > McKesson </a></li>
+            <li><a href="{{ site.baseurl }}" > J-amp </a></li>
+            <li><a href="{{ site.baseurl }}" > Gilead </a></li>
+            <li><a href="{{ site.baseurl }}" > Abbvie </a></li>
         </ul>
       </div><!-- /.navbar-collapse -->
     </div>

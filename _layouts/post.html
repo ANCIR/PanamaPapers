@@ -15,9 +15,9 @@ layout: default
               <br/> <br/>
 
               {% assign publisher = site.data.publishers[page.publisher] %}
-              {% assign country = site.data.countries[publisher.country] %}
+              {% assign pharmaceutical = site.data.pharmaceuticals[publisher.pharmaceutical] %}
 
-              <p><em>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.publisher %} • <a href="{{ page.original_url }}" target="_blank">{{ publisher.name }}, {{ country.name }}</a>{% endif %}</em></p>
+              <p><em>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.publisher %} • <a href="{{ page.original_url }}" target="_blank">{{ publisher.name }}, {{ pharmaceutical.name }}</a>{% endif %}</em></p>
             </div>
           </div>
         </div>

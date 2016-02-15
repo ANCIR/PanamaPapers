@@ -2,8 +2,8 @@
 layout: post
 title: "Toliara Sands – Du développement à la mauvaise gouvernance"
 
-author: Riana Randrianarisoa
-publisher: lexpress
+author: john doe
+publisher: b
 original_url: http://www.lexpressmada.com/blog/magazine/toliara-sands-du-developpement-a-la-mauvaise-gouvernance-38142/
 
 masthead_pic: /img/toliara-sands-du-developpement-a-la-mauvaise-gouvernance/pic_1.jpg

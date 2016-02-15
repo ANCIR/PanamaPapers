@@ -1,9 +1,9 @@
-mmegi:
+a:
   pharmaceutical: merck
-  name: Mmegi
-lexpress:
+  name: a
+b:
   pharmaceutical: baxter
-  name: L'Express
-depechesdumali:
+  name: b
+c:
   pharmaceutical: amgen
-  name: Depeches du Mali
+  name: c
