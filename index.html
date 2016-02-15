@@ -13,12 +13,24 @@ masthead_pic: /img/masthead.png
 
   <a name="data" class="anchor"></a>
 
-  <h1>Cost of Life</h1>
-  <div id="map" height=400px width=100% class="map"></div>
+  <div id="map" class="map"></div>
+  <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.MapQuest({layer: 'sat'})
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.transform([37.41, 8.82], 'EPSG:4326', 'EPSG:3857'),
+          zoom: 4
+        })
+      });
+    </script> 
 
-  <div class="container-content container">
-  {% include drugs.html %}
-  </div>
+
+  <!--{% include drugs.html %}-->
 
   <div class="container-content container">
     <div class="row">
@@ -47,88 +59,9 @@ masthead_pic: /img/masthead.png
 
     <hr class="branded"/>
 
-    <div class="more-series">
-      <a name="articles" class="anchor"></a>
-      <h4 class="section-title">more in this series</h4>
-      <br/>
-
-      <div class="row">
-        {% for series in site.data.home-more-series %}
-        {% if series.excerpt %}
-
-        <div class="col-sm-6 col-md-6 col-lg-2">
-          <div class="col-inner">
-            <a href="{{ site.baseurl }}/slider.html#{{ series.slide_id }}">
-              <span class="hyperspan"></span>
-            </a>
-            <img src="{{ site.baseurl }}/img/slider/{{ series.slide_id }}_home.jpg" class="img-responsive"/>
-            <h4>{{ series.title }}</h4>
-            <p><small>{{ series.excerpt }}</small></p>
-          </div>
-        </div>
-
-        {% else %}
-
-        <div class="col-sm-6">
-          <div class="col-inner">
-            <a href="{{ site.baseurl }}{{ series.url }}">
-              <span class="hyperspan"></span>
-            </a>
-            <img src="{{ site.baseurl }}{{ series.home_pic }}" class="img-responsive"/>
-            <h2>{{ series.title }}</h2>
-          </div>
-        </div>
-
-        {% endif %}
-
-        <div class="clearfix visible-xs"></div>
-        <div class="col-xs-12 visible-xs" style="height: 30px;"></div>
-        <div class="clearfix visible-xs"></div>
-
-        {% assign loopindex = forloop.index | modulo: 2 %}
-        {% if loopindex == 0 and forloop.index != 4 %}
-        <div class="clearfix visible-md visible-sm"></div>
-        <div class="col-xs-12 visible-md visible-sm" style="height: 30px;"></div>
-        {% endif %}
-
-        {% assign loopindex = forloop.index | modulo: 4 %}
-        {% if loopindex == 0 %}
-        <div class="clearfix hidden-xs"></div>
-        <div class="col-xs-12 hidden-xs" style="height: 30px;"></div>
-        {% endif %}
-
-
-        {% endfor %}
-      </div>
-    </div> <!-- /.more-series -->
 
     <hr class="branded"/>
 
-    <div class="how-we-did-it">
-
-      <div class="row">
-        <div class="col-sm-6 col-md-3">
-          <h3 class="section-title">how we did it</h3>
-          <p class="section-description">Cost Of Life will expose the pharmaceutical industry's manipulation of the pricing system, aided by poor regulation against direct-to-consumer marketing and the dangerous use of ‘me too’ and ‘off label’ drug use prescribed by doctors.</p>
-        </div>
-        {% for series in site.data.home-how-we-did-it %}
-        <div class="col-sm-6 col-md-3">
-          <div class="col-inner">
-            <a href="{{ site.baseurl }}{{ series.url }}">
-              <span class="hyperspan"></span>
-            </a>
-            <img src="{{ site.baseurl }}{{ series.home_pic }}" class="img-responsive"/>
-            <h3>{{ series.title }}</h3>
-          </div>
-        </div>
-        {% assign loopindex = forloop.index | modulo: 2 %}
-        {% if loopindex == 1 and forloop.index != 1 %}
-        <div class="clearfix visible-sm"></div>
-        {% endif %}
-
-        {% endfor %}
-      </div>
-    </div> <!-- /.how-we-did-it -->
 
     <hr class="branded"/>
 
