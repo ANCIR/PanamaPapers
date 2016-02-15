@@ -9,7 +9,7 @@
         padding: 10px;
       }
     </style>
-    <script src="http://openlayers.org/en/v3.0.0/build/ol.js" type="text/javascript"></script>
+    <script src="js/ol.js" type="text/javascript"></script>
     <title>Map</title>
 </head>
 <body>
@@ -17,22 +17,32 @@
     <script type="text/javascript">
       var extent = [0, 0, 1024, 968];
       var projection = new ol.proj.Projection({
-        code: 'map-image',
-        units: 'pixels',
-        extent: extent
-      }); 
+              code: 'map-image',
+              units: 'pixels',
+              extent: extent
+              });
       var map = new ol.Map({
-        target: 'map',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.MapQuest({layer: 'sat'})
-
-                })
-        ],
-        view: new ol.View({
-          center: ol.proj.transform([37.41, 8.82], 'EPSG:4326', 'EPSG:3857'),
-          zoom: 4
+      layers: [
+        new ol.layer.Image({
+          source: new ol.source.ImageStatic({
+            attributions: [
+              new ol.Attribution({
+                html: '&copy; <a href="https://sourceafrica.net/documents/21198-Pfizer-Map.html">sourceAFRICA</a>'
+              })
+            ],
+            url: 'https://sourceafrica.net/documents/21198/pages/Pfizer-Map-p1-large.gif?1455362846',
+            projection: projection,
+            imageExtent: extent
+          })
         })
-      });
+      ],
+      target: 'map',
+      view: new ol.View({
+        projection: projection,
+        center: ol.extent.getCenter(extent),
+        zoom: 2
+      })
+    }); 
+      
     </script>
 </body>
