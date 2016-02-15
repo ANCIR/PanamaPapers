@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="http://openlayers.org/en/v3.0.0/css/ol.css" type="text/css">
+    <style>
+      .map {
+        height: 400px;
+        width: 80%;
+        margin: auto;
+        padding: 10px;
+      }
+    </style>
+    <script src="http://openlayers.org/en/v3.0.0/build/ol.js" type="text/javascript"></script>
+    <title>Map</title>
+</head>
+<body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var extent = [0, 0, 1024, 968];
+      var projection = new ol.proj.Projection({
+        code: 'map-image',
+        units: 'pixels',
+        extent: extent
+      }); 
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.MapQuest({layer: 'sat'})
+
+                })
+        ],
+        view: new ol.View({
+          center: ol.proj.transform([37.41, 8.82], 'EPSG:4326', 'EPSG:3857'),
+          zoom: 4
+        })
+      });
+    </script>
+</body>
