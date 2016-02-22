@@ -54,24 +54,8 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-left">
-          <li class="hidden-xs"><a href="#" id="second-nav-btn">stories <span class="caret"></span></a></li>
-          <li class="dropdown visible-xs">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">stories <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              {% for post in site.posts %}
-              {% if post.publisher %}
-              {% assign publisher = site.data.publishers[post.publisher] %}
-              {% assign pharmaceutical = site.data.pharmaceuticals[publisher.pharmaceutical] %}
-              <li><a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
-                {{ pharmaceutical.name }}
-              </a></li>
-              {% endif %}
-              {% endfor %}
-            </ul>
-          </li>
-          <li><a href="{{ site.baseurl }}/data.html">data</a></li>
-          <li><a href="{{ site.baseurl }}/about.html#team">team</a></li>
           <li><a href="https://sourceafrica.net/search/Project:%20%22The%20Artful%20Dodger%22" target="_blank">docs</a></li>
+          <li><a href="{{ site.baseurl }}/about.html#team">team</a></li>
         </ul>
 
         <ul class="nav navbar-nav navbar-right hidden-xs">

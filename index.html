@@ -7,15 +7,11 @@ sub_title: Impact of Pharmaceutical Malpractice
 masthead_pic: /img/masthead.png
 
 ---
-
-
 <div class="home">
-
   <a name="data" class="anchor"></a>
 
   {% include map.html %}
   
-
   <div class="container-content container">
     <div class="row">
 
@@ -28,11 +24,6 @@ masthead_pic: /img/masthead.png
 
         <p>This tax optimisation strategy closely resembles that of "high-tech" companies depending on intangible capital for the bulk of their wealth. Pfizer, Novartis, GlaxoSmithKline - as well as over 60 per cent of Fortune 500 multinationals, all maintain entities in Delaware, taking full advantage of legal and financial opacity tools.</p>
 
-        <p>In addition to banking secrecy and zero disclosure of beneficial owners, Delaware allows for parent companies to establish holding companies within two days, producing nothing, conducting no economic activity in the state, and generally hosting just one shareholder (the parent company). Such entities, allowing the parent company to pay the newly created entity a "fee" for use of IP, serves as a passive conduit converting taxable income to passive non-taxable profit.</p>
-        
-        <p>The entity's sole purpose is to own and 'manage' laundered income generated from IP. The result is a highly illicit political economy designed to misrepresent the actual costs of the life-saving drugs in order to drain  citizen budgets (whether directly or through taxpayer funds) with devastating outcomes.</p>
-
-
       </div>
     </div>
     <!-- /.row -->
@@ -42,37 +33,19 @@ masthead_pic: /img/masthead.png
     {% include key-findings.html %}
 
     <hr class="branded"/>
-
-    <h2>drug comparisons</h2>
-
-    <iframe>
-    {% include drugs.html %}
-    </iframe>
-
+    <h2>assets, cash and tax comparisons</h2>
+    
+    <a name="data" class="anchor"></a>
+    <iframe src="http://costoflife.s3-website.eu-central-1.amazonaws.com" frameborder="0"
+            style="height: 720px; width: 100%;"></iframe>
 
     <hr class="branded"/>
+    <h2>market cap comparisons</h2>
 
+    <a name="data" class="anchor"></a>
+    <iframe src="http://costoflife2.s3-website.eu-central-1.amazonaws.com" frameborder="0"
+            style="height: 720px; width: 100%;"></iframe>
 
-    <hr class="branded"/>
-
-    <div class="reporting-partners">
-      <div class="row">
-        <div class="col-sm-3">
-          <h3 class="section-title">reporting partners</h3>
-          <p class="section-description">#CostOfLife is the largest data-driven transnational investigation yet in Africa. ANCIR worked frontline reporters in 13 African countries, supported by specialist editors on three continents, and forensic technology teams in the United States and South Africa. The resulting articles are being republished by the following media partners:</p>
-        </div>
-        <div class="col-sm-9">
-          <div class="logos">
-            {% for partner in site.data.reporting-partners %}
-            <a href="{{ site.baseurl }}{{ partner.url }}">
-              <img src="{{ site.baseurl }}/img/reporting-partners/colored/{{ partner.logo }}" alt="{{ partner.name }}"/>
-            </a>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-
-    </div>
 
   </div>
   <!-- /.container -->
