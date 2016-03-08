@@ -1,0 +1,77 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+
+body { margin: 0; }
+h2 {text-align: center;
+    font-weight: lighter;
+    font-size: 36px;
+    line-height: 6px;}
+p {font-family: 'Roboto', sans-serif;font-weight: 300;}
+p span {font-weight: 800;font-size: 30px;}
+ul#menu {padding: 0;text-align: center;}
+ul#menu li {display: inline;}
+ul#menu li a {background-color: white;color: black;padding: 10px 20px;text-decoration: none;border: 1px solid black;border-radius:10px;font-weight: 800;}
+footer {position: absolute;font-size: 10px;font-family: sans-serif;color: #c7c7c7;padding: 1.5em;}
+ul#menu li a:hover, a:active {background-color: black;color: white;}
+.columns, footer { position: relative;top: 20px}
+.left, .right { /* border: 1px solid  #ccc;*/ top: 0; padding: .1em;font-family: 'Playfair Display', serif;text-align: center;}
+#pharma, #no-pharma {text-align: left;}
+input, button, select, textarea {
+    border-radius: 0px;
+    padding-left: 10px;
+    height: 35px;
+    width: 300px;
+    color: #000;
+    background: #fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 800;
+    border: 1px solid #000;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+select {
+    background-image: url(../img/select.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+svg .cn{
+    opacity: 0;
+    -moz-transform-origin: 50% 50%;
+}
+footer {
+    font-family: sans-serif;
+    padding: 1.5em;
+    position: relative;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #999;
+    font-size: 11px;
+}
+footer span {
+    color: #b5adad;
+    font-weight: 800;
+    color: #838383;
+}
+#hint{
+    background-image: url(../img/hint.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    width: 88px;
+    height: 39px;
+    position: absolute;
+    bottom: calc(50% - 18px);
+    right: calc(50% - 44px);
+    background-color: white;
+    padding: 5px 0;
+    box-sizing: content-box;
+}
+/* MEDIA QUERIES */
+@media screen and (min-width: 47.5em ) {
+    .left { margin-right: 50%;border-right: 1px dotted #000;}
+    .right { position: absolute; top: 0; right: 0; width: 50%; }   
+}

@@ -1,0 +1,163 @@
+*,
+*:before,
+*:after {
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+body {
+    margin: 0;
+}
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 0px;
+}
+
+.columns{
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    height: 490px;
+    padding: 0px 0px 0px 30px;
+    overflow: hidden;
+    margin-top: -9px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    mix-blend-mode: multiply;
+    background-blend-mode: multiply;
+}
+footer {
+    font-family: sans-serif;
+    padding: 1.5em;
+    position: relative;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #999;
+    font-size: 11px;
+}
+footer span {
+    color: #b5adad;
+    font-weight: 800;
+    color: #838383;
+}
+.key {
+    padding: 1.5em;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.key div{
+    width: 160px;
+    height: 16px;
+    margin: 30px 10px;
+    padding: 0;
+    display: inline-block;
+    text-align: left;
+}
+.key div.dph:before{
+    content: url('../img/doot0.svg');
+    width: 15px;
+    height: 16px;
+}
+.key div.dnph:before{
+    content: url('../img/doot1.svg');
+    width: 15px;
+    height: 16px;
+}
+#guide {
+    background-image: url("../img/guide_vrs2.png");
+    background-repeat: repeat-x;
+    height: 380px;
+    width: 85%;
+    position: absolute;
+    margin-left: 5%;
+}
+.wrapper {
+    margin-right: 12px;
+    font-family: 'Playfair Display', serif;
+    height: 400px;
+    width: 15px;
+    position: relative;
+    display: inline-block;
+    mix-blend-mode: multiply;
+    background-blend-mode: multiply;
+}
+.cont{
+    bottom: 0;
+    position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+    z-index: 9999;
+}
+a.top {
+    width: 10px;
+    height: 10px;
+    background-color: #000;
+    border: 1px solid #000;
+    display: block;
+    border-radius: 10px;
+    margin: 0px 0px -5px -1px;
+}
+.barra{
+    display: block;
+    height: 80px;
+    width: 10px;
+    background-color: #dbdbdb;
+    transition: all 1s ease;
+    mix-blend-mode: multiply;
+    background-blend-mode: multiply;
+}
+a.bottom {
+    width: 10px;
+    height: 10px;
+    background-color: #b5adad;
+    border: 1px solid #000;
+    display: block;
+    border-radius: 10px;
+    margin: -5px 0px 0px -1px;
+}
+a{
+    font-family: 'Playfair Display', serif;
+    font-size: 10px;
+    color: #b5adad;
+}
+a .tooltip blockquote{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    margin: 0;
+    color: white;
+}
+a .tooltip b{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    color: #ff6f6f;
+}
+#hint{
+    background-image: url(../img/hint.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    width: 88px;
+    height: 57px;
+    position: absolute;
+    bottom: 5%;
+    right: calc(50% - 44px);
+    background-color: white;
+    padding: 5px 0;
+    box-sizing: content-box;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 600px) {
+    .wrapper {border: 0;}
+    .columns {width: 90%;}
+    .key {padding: 0.5em;}
+    footer {padding: 0.2;}
+}

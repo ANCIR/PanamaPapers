@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Mapping intangibles Graphic 1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/tooltips.min.css" type="text/css">
+</head>
+<body>
+    <div class="key"><div class="dph"> Pharma</div><div class="dnph"> No-Pharma</div></div>
+    <div class="columns">
+        <div class="left">
+            <h2>Pharma Companies</h2>
+            <a class="doot ph01"> 
+                <span class="tooltip">
+                    Bristol-Myers Squibb<br>
+                    <blockquote id="phbq_01"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph02"> 
+                <span class="tooltip">
+                    Pﬁzer<br>
+                    <blockquote id="phbq_02"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph03"> 
+                <span class="tooltip">
+                    Eli Lilly<br>
+                    <blockquote id="phbq_03"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph04"> 
+                <span class="tooltip">
+                    Merck<br>
+                    <blockquote id="phbq_04"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph05"> 
+                <span class="tooltip">
+                    Abbott<br>
+                    <blockquote id="phbq_05"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph06"> 
+                <span class="tooltip">
+                    Abbvie<br>
+                    <blockquote id="phbq_06"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph07"> 
+                <span class="tooltip">
+                    Amgen<br>
+                    <blockquote id="phbq_07"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph08"> 
+                <span class="tooltip">
+                    J&#38J<br>
+                    <blockquote id="phbq_08"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph09"> 
+                <span class="tooltip">
+                    Gilead<br>
+                    <blockquote id="phbq_09"></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph10"> 
+                <span class="tooltip">
+                    Baxter<br>
+                    <blockquote id="phbq_10"></blockquote>    
+                </span>
+            </a>
+        </div>
+        <div class="right">
+            <h2>No-Pharma Companies</h2>
+            
+            <a class="doot ph01"> 
+                <span class="tooltip">Microsoft<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph02"> 
+                <span class="tooltip">McDonalds<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph03"> 
+                <span class="tooltip">Starbucks<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph04"> 
+                <span class="tooltip">Disney<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph05"> 
+                <span class="tooltip">Coca-Cola<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph06"> 
+                <span class="tooltip">Nike<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph07"> 
+                <span class="tooltip">Mattel<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph08"> 
+                <span class="tooltip">Western Union<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            <a class="doot ph09"> 
+                <span class="tooltip">ExxonMobil<br>
+                    <blockquote></blockquote>    
+                </span>
+            </a>
+            
+        </div>
+        <div id="hint"></div>
+    </div>
+    <ul id="menu">
+        <li id="menu_01" class="current">Intangible</li>
+        <li id="menu_02">Net tangible assets</li>
+        <li id="menu_03">Unremitted foreign earnings</li>
+        <li id="menu_04">Tax avoided</li>
+        <li id="menu_05">Offshore cash</li>
+    </ul>  
+    <footer>
+        <span>Intangibles:</span> Non-physical assets that includes patents, trademarks, goodwill etc. Only those acquired from other companies are disclosed. <br>
+        <span>Net tangible assets:</span> The actual book value of a company less liabilities etc. <br>
+        <span>Unremitted foreign earnings:</span> Money that has not been disclosed to avoid triggering tax activity. The earnings may already be 'onshore' in the US. <br>
+        <span>Tax avoided:</span> Taxes owed against 35% US federal tax rate from unremitted earnings. <br>
+        <span>Offshore chash:</span> The dollar value of unremitted foreign earnings that is held offshore in cash form.
+    </footer>
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/velocity.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>
