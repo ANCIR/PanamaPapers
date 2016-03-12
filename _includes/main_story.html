@@ -29,7 +29,11 @@
 <h2>HIDDEN AND INTANGIBLE</h2>
 <hr class="branded"/>
 <a class="anchor" name="viztwo"></a>
-<iframe src="viz-two/index.html" frameborder="0" style="height: 720px; width: 100%;"></iframe>
+<div id="viztwo"></div>
+<script type="text/javascript" src="{{ '/js/pym.js' | prepend: site.baseurl }}"></script>
+<script>
+  var pymParent = new pym.Parent('viztwo', '/viz-two/index.html', {});
+  </script>
 
 <p>Land and other genuinely scarce items are no longer the most valuable assets in the world.</p>
 
@@ -68,7 +72,10 @@
 <h2>PHARMA’S FUZZY MATH</h2>
 <hr class="branded"/>
 <a class="anchor" name="vizone"></a>
-<iframe src="viz-one/index.html" frameborder="0" style="height: 720px; width: 100%;"></iframe>
+<div id="vizone"></div>
+<script>
+  var pymParent = new pym.Parent('vizone', '/viz-one/index.html', {});
+  </script>
 
 <p>
 About half of the pharmaceutical industry’s global sales—about $400 billion annually—are purchased as prescription drugs in the U.S. Last year, the top 25 prescription drugs catering to various forms of aches and pains churned out $145 billion in sales. The year before, Bayer’s current CEO Marijn Dekkers, in response to India’s compulsory licensing attempt for cancer drug Nexavar, said: “We did not develop this medicine for Indians ... We developed it for Western patients who can afford it.” Certainly, at $5,400 per month for Nexavar in the U.S., where there exists no price ceiling on medicines, Bayer is cashing in. Big Pharma stridently declares the U.S.’s lack of price restrictions necessary to generate the revenue needed for innovation. </p>
@@ -94,7 +101,10 @@ About half of the pharmaceutical industry’s global sales—about $400 billion 
 <h2>RX FOR CHANGE</h2>
 <hr class="branded"/>
 <a class="anchor" name="vizthree"></a>
-<iframe src="viz-three/index.html" frameborder="0" style="height: 720px; width: 100%;"></iframe>
+<div id="vizthree"></div>
+<script>
+  var pymParent = new pym.Parent('vizthree', '/viz-three/index.html', {});
+  </script>
 
 <p> In order to overcome the price distortions created by patent protections, which produce and rely on monopolies, governments must reserve the right to set price ceilings for medicines that have used public knowledge or funding. Where chronic or acute illnesses are concerned, governments should have the right to develop a generic version of the newest and best medicines for those that lack resources. Also, so-called “home country” governments, the states in which companies have incorporated, should document Big Pharma’s medicines by patent, jurisdiction, and owners. Laws should also require companies to itemize internally developed intangible assets, the number of employees in each subsidiary, the extent of transfer pricing between subsidiaries, and where they pay taxes and record profits. Additionally, where public resources are used, the public must be able to access granular details about the drug’s development. These measures will expose and transform the underlying structure of pharmaceutical companies, pushing the industry toward accountability and transparency. </p>
 
@@ -105,6 +115,10 @@ About half of the pharmaceutical industry’s global sales—about $400 billion 
 <h2>PATENTED vs. GENERIC</h2>
 <hr class="branded"/>
 <a class="anchor" name="vizfour"></a>
-<iframe src="viz-four/index.html" frameborder="0" style="height: 720px; width: 100%;"></iframe>
+<div id="vizfour"></div>
+<script>
+  var pymParent = new pym.Parent('vizfour', '/viz-four/index.html', {});
+  </script>
 
 {% include fb-comments.html %}
+
