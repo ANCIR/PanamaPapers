@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://costoflife.investigativecenters.org" # the base hostname & protocol for your site
 twitter_username: AfricanCIR
 github_username:  ANCIR
-#google_analytics: UA-63787251-3
+google_analytics: UA-63787251-3
 
 # Build settings
 markdown: kramdown
