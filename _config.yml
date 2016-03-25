@@ -1,13 +1,19 @@
 # Site settings
 title: Cost Of Life
 sub_title: Big Pharma’s Taxing Situation
-email: info@investigativecentres.org
+
 description: > # this means to ignore newlines until "baseurl:"
   ANCIR’s investigation will expose the ‘lie’ created by the pharmaceutical industry’s insistence that the costs and patents for the development of new drugs remain confidential. Our investigation will show how artificial costing is the ‘capitalisation’ of costs: that investment is valued at the expected return investors may forego during development, contrasted to financial securities or other equity portfolios
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://costoflife.investigativecenters.org" # the base hostname & protocol for your site
+
+url: https://costoflife.investigativecenters.org  # with the https protocol
+enforce_ssl: costoflife.investigativecenters.org   # without any protocol
+
 twitter_username: AfricanCIR
 github_username:  ANCIR
+email:            info@investigativecentres.org
+
 google_analytics: UA-63787251-3
 
 # Build settings
