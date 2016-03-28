@@ -39,6 +39,6 @@ Stay tuned for our investigations and analysis during 2016!
 
 - **Data sources:** Code4South Africa, Credit Suisse, Medicamentalia. Pharmaceutical data for 2014 and 2015 derived from 10K annual reports for Pfizer, Merck, Amgen, Abbvie, Abbott, Johnson & Johnson, Gilead, Baxter, Eli Lilly, Bristol Myers-Squibb. Non-pharmaceutical derived from 10K annual reports for Microsoft, Mattel, Western Union, McDonalds, Exxon-Mobil, Starbucks, Disney and Coca-Cola
 
-- **Technologists:** Andrew Kamau
+- **Technologists:** Andrew Kamau, David Lemayian (Code for Africa)
 
 Support for this collabration includes grants from the Fund for Investigative Journalism (FIJ), International Center for Journalists (ICFJ) and Open Society West Africa (OSIWA).
