@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: https://costoflife.investigativecenters.org  # with the https protocol
-enforce_ssl: costoflife.investigativecenters.org   # without any protocol
+url: https://jv4j7kwhtudx5qft.investigativecenters.org  # with the https protocol
+enforce_ssl: jv4j7kwhtudx5qft.investigativecenters.org   # without any protocol
 
 twitter_username: AfricanCIR
 github_username:  ANCIR
