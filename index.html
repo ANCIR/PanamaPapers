@@ -9,79 +9,31 @@ masthead_pic: /img/masthead.png
 ---
 <div class="home">
   <a name="data" class="anchor"></a>
-
-  {% include map.html %}
   
   <div class="container-content container">
     <div class="row">
 
-      <div class="col-md-6">
+      <div class="col-md-8 text-left">
         <a name="about" class="anchor"></a>
-
-        {% capture my_include %}{% include_relative intro.md %}{% endcapture %}
+        {% capture my_include %}{% include_relative main.md %}{% endcapture %}
         {{ my_include | markdownify }}
-        
-        <p><a class="text-danger" href="{{ site.baseurl }}/costoflife/"><u>Read full story</u></a></p>
-        <p><a class="text-danger" href="/about/"><u>About this project</u></a></p>
+    </div>  <!-- .col-md-8 -->
 
-      </div>
-      <div class="col-md-6">
-        <div class="row">
+      <div class="col-md-4">
+          {% include afrileaks-embed.html %}
 
-          <div class="col-sm-6 col-xs-12">
-            <a href="{{ site.baseurl }}/costoflife/#viztwo" class="thumbnail">
-              <img src="img/tax.jpg" alt="Data viz two"/>
-              <div class="caption">
-                <h3>assets, tax comparisons</h3>
-              </div>
-            </a>
-          </div>
+      </div> <!-- .col-md-4 -->
 
-          <div class="col-sm-6 col-xs-12">
-            <a href="{{ site.baseurl }}/costoflife/#vizthree" class="thumbnail">
-              <img src="img/price.jpg" alt="Data viz three"/>
-              <div class="caption">
-                <h3>medicine price comparisons</h3>
-              </div>
-            </a>
-          </div>
-
-        </div> <!-- /.row -->
-        <div class="row">
-          
-          <div class="col-sm-6 col-xs-12">
-            <a href="{{ site.baseurl }}/costoflife/#vizone" class="thumbnail">
-              <img src="img/marketcap.jpg" alt="Data viz one"/>
-              <div class="caption">
-                <h3>market cap comparisons</h3>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-sm-6 col-xs-12">
-            <a href="{{ site.baseurl }}/costoflife/#vizfour" class="thumbnail">
-              <img src="img/pills.jpg" alt="Data viz four"/>
-              <div class="caption">
-                <h3>patented vs. generic medicines</h3>
-              </div>
-            </a>
-          </div>
-
-        </div> <!-- /.row -->
-
-      </div> <!-- /.col-md-6 -->
-    </div> <!-- /.row -->
+    </div> <!-- .row -->
 
     <hr class="branded"/>
 
+    <a name="stories" class="anchor"></a>
     {% include key-findings.html %}
 
-    <hr class="branded"/>
 
     <div class="row">
       <div class="col-sm-8 col-sm-offset-2">
-        {% capture my_include %}{% include_relative main.md %}{% endcapture %}
-        {{ my_include | markdownify }}
       </div>
     </div>
 
