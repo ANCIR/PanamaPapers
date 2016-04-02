@@ -1,2 +1,2 @@
-# Cost Of Life
-The impact of pharmaceutical industry's abuse of transfer pricing and thin capitalisation strategies
+# Panama Papers
+Politicians, Criminals, and the Rogue Industry That Hides Their Cash
