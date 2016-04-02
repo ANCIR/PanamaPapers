@@ -23,15 +23,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusam
       
 <a name="team"></a>The Team
 -------
-- **Managing Editor:**  Amanda P.
-- **Editor:**  Khadija S.
+- **Managing Editor:**  Amanda Potgieter
+- **Editor:**  Khadija Sharife
 - **Prosecutorial:**  Heinrich Bohmke
-- **Financial:**  Tiziana Barghini
-- **French editor:**  Philippe R.
-- **English editors:**  Yaffa Fredrick and Chris Shay
+- **Finance:**  Tiziana Barghini
+- **French editor:**  Philippe Riviere
+- **English editors:**  Yaffa Fredrick, Chris Shay
 - **Microsite:**  David Lemayian and Andrew Kamau
-- **Data viz:**  Journalists’ own on Linkurious
-- **Funders:**  Web Foundation (ilab + Eng editorial); OSIWA: Grants for West Af + French editor, Code for Africa
+- **Funders:**  Open Society West Africa (OSIWA), Web Foundation, Code For Africa
 
 
 <br/>
