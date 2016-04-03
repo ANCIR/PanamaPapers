@@ -11,14 +11,23 @@ Judge Ian Stuart Kirby, President Ian Khama’s close associate and the Presiden
  
 After a year-long investigation, respected investigative journalist Ken Silverstein, [writing in Vice magazine](http://www.vice.com/read/evil-llc-0000524-v21n12), concluded that Mossack Fonseca "has served as the registered agent for front companies tied to an array of notorious gangsters and thieves".  These include Rami Makhlouf, a notorious Syrian ‘bagman’ for President Bashar al-Assad, various associates of former Libyan dictator Muammar Gaddafi and Zimbabwe’s long-standing president Robert Mugabe, as well as an Israeli billionaire who "has plundered one of Africa's poorest countries".
 
+<br/>
+<div class="panel panel-default">
+  <div class="panel-heading">
+  Read the full response from Mossack Fonseca <a href="#" target="_blank">here</a>
+  </div>
+</div>
+<br/>
+
 In 2015, a huge data leak of Mossack Fonseca emails completed the picture. The leak revealed how the law firm arranged for scores of the wealthiest individuals to aggressively avoid taxes in their home countries, and even launder money.  It did so by setting up a myriad of shell companies in tax havens.  These entities shield the identity of the true beneficiaries of funds in those company accounts. Through this opacity, a range of financial crimes are made possible. Tax investigators have referred to the Panamanian law firm as one of the largest creators of shell companies in the world.
  
 Leaked Mossack Fonseca communications show that Kirby has already sold his shares in four of the seven entities, remaining a shareholder in three companies. This was confirmed by Kirby himself when confronted with these allegations.
-  
+
 Kirby says his role in these companies is above board. He said that each of the seven companies were formed to buy, develop and later sell one property each in the United Kingdom. They were special purpose vehicles set up by a real estate agent active in Botswana, Pam Golding Properties. Kirby was but one investor. He claims that he redeemed his shares in four of the companies at a "considerable loss" on account of a weak real estate market and the world economic recession.
 
-Tax Havens: Breaking the spirit of tax law?
--------------------------------------------
+<br/>
+
+### Tax Havens: Breaking the spirit of tax law?
 
 At present, Kirby retains shares in three companies: Jaye Limited, Beachleigh Holdings Limited and Allmonde Company Ltd. All three companies are registered in the British Virgin Islands, and Mossack Fonseca appears to have assisted in their registration, according to documents and emails seen by Ink Centre for Investigative Journalism.
  
@@ -28,9 +37,9 @@ There is little reason other than tax avoidance for a company doing business in 
 There is no suggestion in the leaked information that the companies Kirby invested in were specifically avoiding or evading tax commitments. However, a question does hang over the location of the companies’ registration, British Virgin Islands, and the law firm chosen to perform this registration, Mossack Fonseca. Kirby claims that he was not aware of the law firm, but says that he was aware the companies were run from Guernsey, an island declared a tax haven by the European Union.  
  
 Before being appointed Attorney General, Kirby was the senior partner at IS Kirby Legal & Taxation Consultants where, according to a legal commentator, his “experience as a lawyer was largely limited to representing corporations”. Corporations using the services of tax consultants typically seek to minimize the amount of taxes they pay while remaining legally compliant. While this attitude is to be expected from a CEO charged with maximizing profits at every turn, it remains debatable whether it is becoming of judicial officers to be involved in companies if these take advantage of aggressive tax avoidance schemes. Just as drinking at taverns at all hours is a lawful activity, so is having an interest in a company registered in a tax haven. However, a judicial officer is probably not expected to keep that sort of company. After all, the law has both a letter and a spirit and judges are expected to conduct their affairs so as to “sustain and enhance public confidence in the judiciary”, according to the Botswana Judicial Code of Conduct.
+<br/>
 
-Kirby’s Stakes Undisclosed
---------------------------
+### Kirby’s Stakes Undisclosed
 
 In reply to INK’s enquiries, Kirby pointed out that Botswana has no exchange controls, which means that there are no limitations placed on his moving funds offshore. Of course, he would have to pay tax in Botswana on any profits made, if he ever brought the funds back. There is no reason to doubt his assertions that the companies were used to buy and sell properties in the UK; a perfectly lawful activity. 
 However, this is not publicly available information. Nor are the names of his fellow investors publicly known or the fact that he invested heavily, over £140 000 (Over P2million), in the seven Pam Golding joint ventures.
