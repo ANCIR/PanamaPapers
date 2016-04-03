@@ -2,7 +2,7 @@
 layout: post
 title: "ces autres pontes sénégalais titulaires de sociétés offshore"
 
-publisher: Daily Monitor
+publisher: Ouestaf
 permalink: /senegal-goudaiby/
 blurb: "Outre Mamadou Pouye (voir article précédent), d’autres grands hommes d’affaires sénégalais ont créé des sociétés off-shore grâce a la firme Mossack Fonseca,  sans qu’on puisse établir un lien entre ces sociétés et une quelconque activité illégale.Les documents de MF citent aussi l’architecte Pierre Goudiaby Atepa et l’entrepreneur  Aliou Sow de la Compagnie Sahélienne d’Entreprises (CSE)."
 ---
