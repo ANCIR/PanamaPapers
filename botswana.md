@@ -14,7 +14,7 @@ After a year-long investigation, respected investigative journalist Ken Silverst
 <br/>
 <div class="panel panel-default">
   <div class="panel-heading">
-  Read the full response from Mossack Fonseca <a href="#" target="_blank">here</a>
+  Read the full response from Mossack Fonseca <a href="{{ site.baseurl }}/mfresponse" target="_blank">here</a>
   </div>
 </div>
 <br/>
