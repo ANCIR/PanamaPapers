@@ -13,11 +13,6 @@ layout: default
             <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-1">
               <h1>{{ page.title }}</h1>
               <br/> <br/>
-
-              {% assign publisher = site.data.publishers[page.publisher] %}
-              {% assign pharmaceutical = site.data.pharmaceuticals[publisher.pharmaceutical] %}
-
-              <p><em>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.publisher %} • <a href="{{ page.original_url }}" target="_blank">{{ publisher.name }}, {{ pharmaceutical.name }}</a>{% endif %}</em></p>
             </div>
           </div>
         </div>
@@ -32,6 +27,12 @@ layout: default
 
           <div class="addthis_sharing_toolbox"></div>
           <br/>
+
+          <div class="panel panel-default">
+            <div class="panel-heading">{{ page.blurb }}</div>
+          </div>
+          <br/>
+
 
           {{ content }}
 
