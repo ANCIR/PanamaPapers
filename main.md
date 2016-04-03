@@ -1,4 +1,4 @@
-About This Project: The Panama Papers
+The Panama Papers: About this project
 --------------------
 
 
