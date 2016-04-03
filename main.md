@@ -2,9 +2,9 @@ The Panama Papers: About this project
 --------------------
 
 
-<span class="drop-cap">T</span>he Panama Papers is an unprecedented investigation that reveals the offshore links of some of the globe's most prominent figures.
+<span class="drop-cap">T</span>he Panama Papers is an [unprecedented investigation](https://panamapapers.icij.org/20160403-panama-papers-global-overview.html) that reveals the offshore links of some of the globe's most prominent figures.
 
-The International Consortium of Investigative Journalists (ICIJ), together with the German newspaper Suddeutsche Zeitung and more than 100 other media partners, including the African Network of Centers for Investigative Reporting (ANCIR), spent a year sifting through 11.5 million leaked files to expose the offshore holdings of world political leaders, links to global scandals, and details of the hidden financial dealings of fraudsters, drug traffickers, billionaires, celebrities, sports stars and more.
+The International Consortium of Investigative Journalists (ICIJ), together with the German newspaper *Suddeutsche Zeitung* and more than 100 other media partners, including the African Network of Centers for Investigative Reporting (ANCIR), spent a year sifting through 11.5 million leaked files to expose the offshore holdings of world political leaders, links to global scandals, and details of the hidden financial dealings of fraudsters, drug traffickers, billionaires, celebrities, sports stars and more.
 
 The trove of documents is likely the biggest leak of inside information in history. It includes nearly 40 years of data from a little-known but powerful law firm based in Panama. That firm, Mossack Fonseca, has offices in more than 35 locations around the globe, and is one of the world's top creators of shell companies, the corporate structures that can be used to hide ownership of assets.
 
