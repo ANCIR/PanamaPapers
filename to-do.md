@@ -8,3 +8,4 @@ TO DO
 * [DONE] Each story will also need a link in the first 3-5 paragraphs saying Read the full response from Mossack Fonseca [here].(https://docs.google.com/document/d/1VdF-nJ5JxAN1-4ZLEFMHLha6x88zsq8DB6HSrLU7_lU/edit)
 * [DONE] the about section will also appear on the front page
 * ensure the formatting on the MF response is the same as on the original
+* embed MF response document
