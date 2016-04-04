@@ -12,7 +12,7 @@ He is De Beers’ most prolific diamond buyer, a supplier to the luxury jewelry 
 <br/>
 <div class="panel panel-default">
   <div class="panel-heading">
-  Read the full response from Mossack Fonseca <a href="{{ site.baseurl }}/mfresponse" target="_blank">here</a>
+  Read the full response from Mossack Fonseca <a href="https://sourceafrica.net/documents/***REMOVED***.html" target="_blank">here</a>
   </div>
 </div>
 <br/>

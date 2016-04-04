@@ -12,7 +12,7 @@ The law was hailed as the first step toward ending the trade of so-called “blo
 <br/>
 <div class="panel panel-default">
   <div class="panel-heading">
-  Read the full response from Mossack Fonseca <a href="{{ site.baseurl }}/mfresponse" target="_blank">here</a>
+  Read the full response from Mossack Fonseca <a href="https://sourceafrica.net/documents/***REMOVED***.html" target="_blank">here</a>
   </div>
 </div>
 <br/>

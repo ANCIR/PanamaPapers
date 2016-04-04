@@ -14,7 +14,7 @@ The company, also known as HOGL, besides deciding to fight the tax liability hea
 <br/>
 <div class="panel panel-default">
   <div class="panel-heading">
-  Read the full response from Mossack Fonseca <a href="{{ site.baseurl }}/mfresponse" target="_blank">here</a>
+  Read the full response from Mossack Fonseca <a href="https://sourceafrica.net/documents/***REMOVED***.html" target="_blank">here</a>
   </div>
 </div>
 <br/>
