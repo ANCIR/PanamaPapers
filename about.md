@@ -16,15 +16,16 @@ The International Consortium of Investigative Journalists (ICIJ), together with 
       
 <a name="team"></a>The Team
 -------
+- **ANCIR iLAB Editor:**  Khadija Sharife
 - **Managing Editor:**  Amanda Potgieter
-- **Editor:**  Khadija Sharife
-- **Prosecutorial:**  Heinrich Bohmke
-- **Finance:**  Tiziana Barghini
-- **French editor:**  Philippe Riviere
-- **English editors:**  Yaffa Fredrick, Chris Shay
-- **Microsite:**  David Lemayian and Andrew Kamau
+- **Prosecutorial Editor:**  Heinrich Bohmke
+- **Finance Analyst:**  Tiziana Barghini
+- **French Copy Editor:**  Philippe Riviere
+- **English Copy Editors:**  Yaffa Fredrick and Chris Shay
+- **Reporters:**  Tabu Butagira (Uganda), Ntibinyane Ntibinyane (Botswana), Silas Gbandia (Sierra Leone), Shinovene Immanuel (Namibia)
+- **Technologists:**  David Lemayian and Andrew Kamau
 - **Funders:**  Open Society West Africa (OSIWA), Web Foundation, Code For Africa
-- **Directors:** Justin Arenstein, Chris Roper
+- **ANCIR Directors:**  Justin Arenstein and Chris Roper
 
 
 <br/>
