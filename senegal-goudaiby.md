@@ -5,6 +5,7 @@ title: "ces autres pontes sénégalais titulaires de sociétés offshore"
 publisher: Ouestaf
 permalink: /senegal-goudaiby/
 blurb: "Homme d'affaires sénégalais a créé des sociétés offshore grâce à l'entreprise Mossack Fonseca. Les documents citent également l'architecte Pierre Goudiaby Atepa et Aliou Sow, l'entrepreneur du Sahel Société des entreprises (CSE )."
+excerpt: "Homme d'affaires sénégalais a créé des sociétés offshore grâce à l'entreprise Mossack Fonseca. Les documents citent également l'architecte Pierre Goudiaby Atepa et Aliou Sow, l'entrepreneur du Sahel Société des entreprises (CSE )."
 ---
 
 ### Atepa Holding, Atepa engineering.

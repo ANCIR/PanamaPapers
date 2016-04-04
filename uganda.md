@@ -5,6 +5,7 @@ title: "Leaked emails expose Heritage plot to dodge Uganda tax"
 publisher: Daily Monitor
 permalink: /uganda/
 blurb: "Leaked documents show the paper trail of the Heritage Oil and Gas Ltd Company’s attempts at avoiding tax payment in Uganda, writes TABU BUTAGIRA."
+excerpt: "Leaked documents show the paper trail of the Heritage Oil and Gas Ltd Company’s attempts at avoiding tax payment in Uganda, writes TABU BUTAGIRA."
 ---
 
 Heritage Oil and Gas Ltd Company knew beforehand of a capital gains tax that Uganda later imposed, and worked aggressively to circumvent it, according to previously unreported details contained in internal correspondences.

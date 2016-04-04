@@ -5,6 +5,7 @@ title: "Botswana judge’s offshore investments raises questions"
 publisher: INK
 permalink: /botswana/
 blurb: "The president of Botswana’s highest court, Ian Kirby, has invested in seven offshore companies domiciled and registered in a tax haven of the British Virgin Islands, writes NTIBINYANE NTIBINYANE."
+excerpt: "The president of Botswana’s highest court, Ian Kirby, has invested in seven offshore companies domiciled and registered in a tax haven of the British Virgin Islands, writes NTIBINYANE NTIBINYANE."
 ---
 
 Judge Ian Stuart Kirby, President Ian Khama’s close associate and the President of the Court of Appeal, Botswana’s highest court, has invested in at least seven offshore companies between 2005 and 2009, according to documents detailing the dealings of a questionable Panama-based law firm Mossack Fonseca.

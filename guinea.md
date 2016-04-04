@@ -5,6 +5,7 @@ title: "Steinmetz Guinea deal pried open"
 publisher: ANCIR
 permalink: /guinea/
 blurb: "Leaked documents pry open the corporate structure of companies involved in a mining rights scandal in Guinea, writes KHADIJA SHARIFE"
+excerpt: "Leaked documents pry open the corporate structure of companies involved in a mining rights scandal in Guinea, writes KHADIJA SHARIFE"
 ---
 
 Heavy is the head that wears the crown. For the Beny Steinmetz Group Resources (BSGR), the company’s investment in the world’s largest iron ore deposit, Simandou, located in the far interior of Guinea, may not be worth the mineral’s perceived value: $10 billion.

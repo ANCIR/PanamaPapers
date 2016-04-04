@@ -5,6 +5,7 @@ title: "Les juteuses affaires au Panama de Seydou Kane"
 publisher: Depeches du Mali
 permalink: /mali/
 blurb: "Les fuites révèlent que le milliardaire Seydou Kane , l'homme d'affaires puissance Mali-Gabonaise, a créé deux sociétés offshore. Il est également impliqué dans une affaire de blanchiment d'argent à Paris."
+excerpt: "Les fuites révèlent que le milliardaire Seydou Kane , l'homme d'affaires puissance Mali-Gabonaise, a créé deux sociétés offshore. Il est également impliqué dans une affaire de blanchiment d'argent à Paris."
 ---
 
 Après une trentaine d’années passées au Gabon, le puissant homme d’affaires s’est attiré de nombreuses faveurs, au Gabon et au Mali en passant par le Sénégal. Il s’est vu gratifier par chacune de ces trois nations d’un passeport diplomatique lui permettant de mener ses affaires sans embûches.

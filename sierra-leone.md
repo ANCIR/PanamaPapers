@@ -5,6 +5,7 @@ title: "Flaws in Sierra Leone’s diamond trade"
 publisher: ANCIR
 permalink: /sierra-leone/
 blurb: "Dodgy dealings within the Steinmetz Group seems to indicate undervaluing of diamonds, which is costing Sierra Leone tax payments, reports Khadija Sharife and Silas Gbandia."
+excerpt: "Dodgy dealings within the Steinmetz Group seems to indicate undervaluing of diamonds, which is costing Sierra Leone tax payments, reports Khadija Sharife and Silas Gbandia."
 ---
 
 He is De Beers’ most prolific diamond buyer, a supplier to the luxury jewelry brand Tiffany & Co., and an alleged criminal, accused of bribing the wife of a former Guinean president to land a multibillion-dollar iron deal. Given that profile, it’s not surprising that Beny Steinmetz and his eponymous company try to stay out of the limelight. But with the Steinmetz Group’s [alleged tax avoidance scam in South Africa](http://www.iol.co.za/news/crime-courts/diamond-scandal-hits-de-beers-1868802) and [an ongoing US grand jury investigation into corruption](https://sourceafrica.net/documents/24603-Court-Document-Guinea.html) in Guinea, for the past two years, Steinmetz hasn’t been able to keep his name out of the headlines. So, to avoid exposing the company, the embattled billionaire allegedly sold his 37.5% share in the Steinmetz Group’s diamond segment, Diacore, to his brother, Daniel, in 2014.

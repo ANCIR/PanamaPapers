@@ -5,6 +5,7 @@ title: "The DRC’s Gold Standard"
 publisher: ANCIR
 permalink: /drc/
 blurb: "Despite international laws stipulating disclosure of the origins of gold, a tranche of leaked documents points to unsavoury behaviour by tax havens trading in commodities, writes KHADIJA SHARIFE."
+excerpt: "Despite international laws stipulating disclosure of the origins of gold, a tranche of leaked documents points to unsavoury behaviour by tax havens trading in commodities, writes KHADIJA SHARIFE."
 ---
 
 The law was hailed as the first step toward ending the trade of so-called “blood minerals” in the Democratic Republic of Congo (DRC). Section 1502 of the Dodd-Frank Act does not require divestment from potential conflict areas, but it does compel companies to disclose the origins of gold and the 3Ts (tin, tantalum and tungsten). The reputational risk of being identified financing “blood minerals” was supposed to be enough to sway multinationals into extensive due diligence. But the process has only led to new strategies of deniability, especially in the gold industry, and has created opportunities for banks and refineries to wash clean the histories of conflict minerals.

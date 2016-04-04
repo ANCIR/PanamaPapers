@@ -5,6 +5,7 @@ title: "et sociétés offshore : sur la piste des fonds de Karim Wade?"
 publisher: Ouestaf
 permalink: /senegal-wade/
 blurb: "Le procès pour enrichissement illicite de Karim Wade, fils de l’ancien président sénégalais Abdoulaye Wade, a connu son verdict il y a un an. Il s’était terminé avec la condamnation par la Cour de répression de l’enrichissement illicite (Crei) de M. Wade-fils et de ses co-accusés à des peines de prison ferme."
+excerpt: "Le procès pour enrichissement illicite de Karim Wade, fils de l’ancien président sénégalais Abdoulaye Wade, a connu son verdict il y a un an. Il s’était terminé avec la condamnation par la Cour de répression de l’enrichissement illicite (Crei) de M. Wade-fils et de ses co-accusés à des peines de prison ferme."
 ---
 
 Il a été très difficile pour les enquêteurs de la justice sénégalaise de retracer la piste de tous les fonds qu’on accuse l’ancien ministre et proche collaborateur de son père d’avoir détournés. Dans cette enquête exclusive, menée dans le cadre d’un projet d’investigation journalistique mondial sur les sociétés off-shore auquel Ouestaf News a participé, notre organe a pu établir l’existence de contrats secrets signés entre l’un des co-accusés de Karim Wade, Mamadou Pouye et l’entreprise DP World FZE, via des sociétés off-shore. Des révélations qui jettent une nouvelle lumière sur cette affaire.

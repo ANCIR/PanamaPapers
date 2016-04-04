@@ -5,6 +5,7 @@ title: "PLONGÉE DANS LE MONDE DE LA FINANCE OFFSHORE"
 publisher: Inkyfada
 permalink: /tunisia/
 blurb: "Une fuite de documents internes révèle la création de sociétés offshore via Panama et expose comment le droit tunisien est contourné pour éviter de payer des impôts sur les actifs à l'étranger."
+excerpt: "Une fuite de documents internes révèle la création de sociétés offshore via Panama et expose comment le droit tunisien est contourné pour éviter de payer des impôts sur les actifs à l'étranger."
 ---
 
 Si la fuite de documents sur les activités de Mossack Fonseca nous intéresse, c’est parce que des noms tunisiens figurent dans les documents. Mossack Fonseca est une firme internationale, en lien avec des intermédiaires partout dans le monde et également en Tunisie.
