@@ -4,7 +4,7 @@ title: "Les juteuses affaires au Panama de Seydou Kane"
 
 publisher: Depeches du Mali
 permalink: /mali/
-blurb: "Seydou Kane, le puissant homme d’affaires gabono-malien, est dans le cercle des « petits princes » du Panama. C’est ce qu’on apprend dans les données internes de la firme Mossack-Fonseca qui nous sont parvenues. Le milliardaire a en effet créé deux sociétés offshore par l’entremise de ce cabinet d’avocats, basé à Panama City et spécialisé dans l’implantation de sociétés dans divers paradis fiscaux. Embourbé dans une affaire de blanchiment d’argent à Paris, le richissime Gabono-Malien a trouvé refuge dans le paradis offshore du Panama, où il se trouve être détenteur de deux grandes compagnies."
+blurb: "Les fuites révèlent que le milliardaire Seydou Kane , l'homme d'affaires puissance Mali-Gabonaise, a créé deux sociétés offshore. Il est également impliqué dans une affaire de blanchiment d'argent à Paris."
 ---
 
 Après une trentaine d’années passées au Gabon, le puissant homme d’affaires s’est attiré de nombreuses faveurs, au Gabon et au Mali en passant par le Sénégal. Il s’est vu gratifier par chacune de ces trois nations d’un passeport diplomatique lui permettant de mener ses affaires sans embûches.

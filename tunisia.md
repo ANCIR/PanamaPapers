@@ -4,7 +4,7 @@ title: "PLONGÉE DANS LE MONDE DE LA FINANCE OFFSHORE"
 
 publisher: Inkyfada
 permalink: /tunisia/
-blurb: "Une fuite de documents internes de la firme Mossack Fonseca, obtenue par le journal allemand Süddeutsche Zeitung, permet de dévoiler le système de création de sociétés offshores via le Panama. Des citoyens tunisiens sont concernés. Une enquête internationale, menée par le consortium de journalistes @ICIJ montre dans le détail comment ces paradis fiscaux sont employés pour échapper à l’impôt et blanchir des fonds"
+blurb: "Une fuite de documents internes révèle la création de sociétés offshore via Panama et expose comment le droit tunisien est contourné pour éviter de payer des impôts sur les actifs à l'étranger."
 ---
 
 Si la fuite de documents sur les activités de Mossack Fonseca nous intéresse, c’est parce que des noms tunisiens figurent dans les documents. Mossack Fonseca est une firme internationale, en lien avec des intermédiaires partout dans le monde et également en Tunisie.

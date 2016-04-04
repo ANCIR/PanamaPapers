@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mossac Fonseca Responds"
+title: "Mossack Fonseca Responds"
 permalink: /mfresponse/
 ---
 
