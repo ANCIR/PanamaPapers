@@ -21,6 +21,8 @@ This information comes from leaked internal data from the Panama-based law firm 
 </div>
 <br/>
 
+![The tender for the Walvis Bay port in Namibia is tied to a Trinidad politician with links to Brazil’s ‘Car Wash’ scandal](/img/namport.png)
+
 On December 27 2012, Santa Tereza Services, which has a bank account at PBK Bank in Switzerland, tasked Pendrey Associates, an offshore firm based in Panama, with determining the price of the Namibian port contract and producing a technical report on key aspects such as the workforce and bidding processes.
 
 According to leaked court documents from Brazil’s ‘Car Wash’ scandal, Santa Tereza Services paid $1 million to Pendrey “to develop the technical studies that will support the pricing and the technical proposal for the expansion of the Walvis Bay Port”.
