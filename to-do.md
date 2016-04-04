@@ -9,3 +9,4 @@ TO DO
 * [DONE] the about section will also appear on the front page
 * ensure the formatting on the MF response is the same as on the original
 * embed MF response document
+* add to the about section of the front page only: Further explosive stories from Zimbabwe, Kenya, South Africa and Nigeria will follow this week. After this par: ... and hidden players in Angola’s Sovereign Wealth Fund, to mention a few

@@ -26,6 +26,8 @@ As ANCIR started researching, it discovered data disclosing 40 years of service 
 
 ANCIR and its media partners’ investigations led to findings around Uganda’s missing taxes from oil revenue; a mega-infrastructure deal in Namibia connected to a FIFA-related entity; secrecy in Steinmetz’s diamond empire; and hidden players in Angola’s Sovereign Wealth Fund, to mention a few.
 
+Further explosive stories from Zimbabwe, Kenya, South Africa and Nigeria will follow this week.
+
 But the data revealed something far more insidious than a willingness to look past illegal activities. 
 
 It reflects a deliberate design on the part of companies like Mossack Fonseca to commercialise the inherent weaknesses of national and international legal and financial regimes by bulldozing the substance, process and purpose of “due diligence”.
