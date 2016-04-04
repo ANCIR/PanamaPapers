@@ -97,5 +97,7 @@ North & South Air Logistics has a subsidiary known as Multimo and also appears t
 
 The company was allegedly sold over a decade ago to a group of Belgian businessmen. ANCIR checked Belgium’s corporate registry, which confirmed the company Multimo International was created in December 1991 and later sold. It is now part of North & South Air Logistics and is based at the same address. 
 
-KPM Multimo declined to comment. Rawbank did not respond to questions. 
+KPM Multimo declined to comment. Rawbank did not respond to questions.
 
+<br/>
+*To get in contact with the author of this story, please contact [ksharife@gmail.com](mailto:ksharife@gmail.com)*

@@ -65,3 +65,6 @@ But this does not answer the question of Margali or Onyx and what they represent
 If so, the documents identify a timeline indicating the inherent improbability of Pentler as independent and separate of BSGR as claimed by the company. 
 
 In May 2014, Mossack Fonseca’s attorney noted the U.S. investigation into Pentler, BSG Resources and Onyx. The company’s lawyer, summarizing media reports, recommended immediate resignation of the company as representative for BSG. As for Onyx, Mossack Fonseca’s compliance department concluded of Onyx and BSG in 2014: “They are the same.”
+
+<br/>
+*To get in contact with the author of this story, please contact [ksharife@gmail.com](mailto:ksharife@gmail.com)*

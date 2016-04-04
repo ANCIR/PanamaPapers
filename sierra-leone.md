@@ -80,3 +80,5 @@ The true state of Octea’s finances remain unknown.
 
 *Silas Gbandia reported from Sierra Leone.*
 
+<br/>
+*To get in contact with the author of this story, please contact [ksharife@gmail.com](mailto:ksharife@gmail.com)*
