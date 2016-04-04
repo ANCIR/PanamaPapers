@@ -5,6 +5,7 @@ title: "Namibia port linked to international tender scandal"
 publisher:  Namibian
 permalink: /namibia/
 blurb: "The tender for the Walvis Bay port in Namibia is tied to a Trinidad politician with links to Brazil’s ‘Car Wash’ scandal, writes SHINOVENE IMMANUEL."
+excerpt: "The tender for the Walvis Bay port in Namibia is tied to a Trinidad politician with links to Brazil’s ‘Car Wash’ scandal, writes SHINOVENE IMMANUEL."
 ---
 
 A shell company linked to a bribery scandal in Brazil paid $1 million to another firm wholly owned by a Trinidadian politician as part of an international bid to win a US$340 million tender to expand the Walvis Bay Port in Namibia, according to leaked documents.
