@@ -1,6 +1,6 @@
 TO DO
 =====
-* Logos for funders
+* [DONE] Logos for funders
 * [DONE] Links for media partners
 * [DONE] Add about page content
 * [DONE] Each story will also need a link in the first 3-5 paragraphs saying "Read the full response from Mossack Fonseca here"

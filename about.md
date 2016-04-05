@@ -24,12 +24,9 @@ The International Consortium of Investigative Journalists (ICIJ), together with 
 - **English Copy Editors:**  Yaffa Fredrick and Chris Shay
 - **Reporters:**  Tabu Butagira (Uganda), Ntibinyane Ntibinyane (Botswana), Silas Gbandia (Sierra Leone), Shinovene Immanuel (Namibia), David Dembele (Senegal), Momar Niang (Mali), Sana Sbouai and Malek Khadraoui (Tunisia), Jacqui Kubania (Kenya), Barry Sergeant(South Africa), Joshua Olufemi (Nigeria), Ray Choto (Zimbabwe)
 - **Technologists:**  David Lemayian and Andrew Kamau
-- **Funders:**  Open Society West Africa (OSIWA), Web Foundation, Code For Africa
+- **Funders:**  Open Society West Africa (OSIWA), World Wide Web Foundation, Code For Africa
 - **ANCIR Directors:**  Justin Arenstein and Chris Roper
 
 
 <br/>
 
-*******
-
-<br/>
