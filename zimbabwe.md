@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zimplats"
+title: "Zimplats denies knowledge of offshore accounts"
 
 publisher: Ouestaf
 permalink: /zimbabwe/
