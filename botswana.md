@@ -24,6 +24,8 @@ In 2015, a huge data leak of Mossack Fonseca emails completed the picture. The l
  
 Leaked Mossack Fonseca communications show that Kirby has already sold his shares in four of the seven entities, remaining a shareholder in three companies. This was confirmed by Kirby himself when confronted with these allegations.
 
+![](/img/botswana.png)
+
 Kirby says his role in these companies is above board. He said that each of the seven companies were formed to buy, develop and later sell one property each in the United Kingdom. They were special purpose vehicles set up by a real estate agent active in Botswana, Pam Golding Properties. Kirby was but one investor. He claims that he redeemed his shares in four of the companies at a "considerable loss" on account of a weak real estate market and the world economic recession.
 
 <br/>
