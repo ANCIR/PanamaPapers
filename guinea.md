@@ -15,7 +15,7 @@ In 2009, the BSGR empire’s namesake, Beny Steinmetz, acquired rights to mine t
 <br/>
 <div class="panel panel-default">
   <div class="panel-heading">
-  Read the full response from Mossack Fonseca <a href="https://sourceafrica.net/documents/***REMOVED***.html" target="_blank">here</a>
+  Read the full response from Mossack Fonseca <a href="https://sourceafrica.net/documents/24692-ANCIR-L-PanamaPapers-L-Mossack-Fonseca-Responds.html" target="_blank">here</a>
   </div>
 </div>
 <br/>
