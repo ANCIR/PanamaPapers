@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Africa’s wealthiest linked to Panama Papers"
+title: "Africa’s wealthiest man linked to Panama Papers"
 
 publisher: ANCIR
 permalink: /nigeria/
