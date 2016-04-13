@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Angolan sovereign wealth fund’s murky investments, associations indicate large-scale siphoning of national cash"
+title: "Leaks reveal extensive siphoning of $5bn Angolan sovereign wealth fund"
 
 publisher: ANCIR
 permalink: /angola/
-blurb: "Opaque associations with the vice president’s stepson, a disgraced German bank president, people convicted of financial mismanagement and a private Russian bank indicate that Angola’s sovereign wealth fund may be little more than a laundering tool, writes KHADIJA SHARIFE."
-excerpt: "Opaque associations with the vice president’s stepson, a disgraced German bank president, people convicted of financial mismanagement and a private Russian bank indicate that Angola’s sovereign wealth fund may be little more than a laundering tool, writes KHADIJA SHARIFE."
+blurb: "Opaque associations with the vice president’s stepson, a disgraced German bank president, people convicted of financial mismanagement and a private Russian bank indicate that Angola’s sovereign wealth fund may be little more than a laundering tool, writes Khadija Sharife."
+excerpt: "Opaque associations with the vice president’s stepson, a disgraced German bank president, people convicted of financial mismanagement and a private Russian bank indicate that Angola’s sovereign wealth fund may be little more than a laundering tool, writes Khadija Sharife."
 ---
 
 Angola’s sovereign wealth fund, the Fundo Soberano de Angola (FSDEA), promotes itself as a vehicle of development and prosperity for Angola – all $5 billion worth of it. The FSDEA is headed by José Filomeno de Sousa “Zenu” dos Santos, the son of President José Eduardo dos Santos, who has been in power since 1979.
