@@ -39,4 +39,5 @@ Com uma faturação anual de €150 milhões, a Escom Congo está a construir um
 
 A relação entre Hélder Bataglia e Denis Sassou Nguesso começou em 1997, pouco antes da criação da Ecoplan Finance. De acordo com o perfil do presidente da Escom publicado pelo Expresso, na revista E, em julho do ano passado, Sassou Nguesso mandou chamar o português a Paris, onde o político preparava a sua candidatura às eleições desse ano, que acabariam por marcar o seu regresso à presidência.  Queria que a Escom fizesse no Congo o que estava a fazer em Angola. O país entrou em guerra civil, mas Bataglia aceitou o desafio e desembarcou com dois aviões russos em Brazzaville, carregados de equipamentos de engenharia. O português construiu o aeroporto internacional de Ollombo, pôs de pé a sede da rádio nacional e pavimentou uma parte das ruas da capital. Em contrapartida, foi nomeado cônsul-honorário do Congo.
 
-
+<hr>
+*This article was produced by the African Network of Centers for Investigative Reporting and supported by the Connecting Continents grant*
