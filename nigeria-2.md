@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Panama Papers reveal dubious behaviour by DRC’s gold traders
+title: Disgraced Nigerian oil mogul’s corruption exposed
 
 publisher: ANCIR
 permalink: /nigeria-2/
