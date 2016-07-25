@@ -129,4 +129,4 @@ As Aluko was securing his loan, the pressure on Alison-Madueke and her associate
 In July 2016, Nigeria’s Economic and Financial Crimes Commission laid charges in court against several Nigerians with alleged ties to former minister Alison-Madueke. In a last-minute change, Aluko’s name was dropped from the charge sheet after government prosecutors admitted they had been unable to serve him with documents.
 
 
-
+*This story was produced by the International Consortium of Investigative Journalists, together with the African Network of Centers for Investigative Reporting*

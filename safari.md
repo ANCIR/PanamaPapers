@@ -70,4 +70,4 @@ The Raw Foundation also owned every share of another Panama company, Munga Munga
  
 Back in Panama and deep inside Mossack Fonseca’s electronic files, however, the company’s purpose was simply listed as “e-commerce.
 
- 
+*This story was produced by the International Consortium of Investigative Journalists, together with the African Network of Centers for Investigative Reporting*

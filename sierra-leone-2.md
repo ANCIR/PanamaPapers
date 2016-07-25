@@ -117,3 +117,4 @@ Lamina, who says that he believes central government doesn’t have the power to
 
 “I started seeing myself as a lone ranger,” Lamina told ICIJ. “But, as it turned out, the support of the people in Koidu [is] encouraging in fighting for the cause.”
 
+*This story was produced by the International Consortium of Investigative Journalists, together with the African Network of Centers for Investigative Reporting*
