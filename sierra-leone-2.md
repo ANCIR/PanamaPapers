@@ -28,6 +28,12 @@ Lebbie’s story isn’t uncommon in places across Africa where mining and drill
 </div>
 <br/>
 
+![alt text](/img/diamond-hand.png "Diamond Hand")
+<br>
+*[Photo: Cooper Inveen / GroundTruth for ICIJ]*
+<br>
+*An artisanal miner in Koidu shows off diamonds he hopes to sell to one of the town's many diamond dealers*
+
 ### Protest Deaths
 
 The Koidu diamond mine is operated by Koidu Limited, a company set up in the British Virgin Islands in 2003 for $750 by Mossack Fonseca, the law firm at the centre of the Panama Papers scandal. The documents show that Koidu Limited is owned by Octea Mining Limited, a company in turn owned by a series of offshore companies in the British Virgin Islands, Guernsey and Liechtenstein that are controlled by billionaire Israeli mining magnate Benjamin Steinmetz and his family.
@@ -43,9 +49,22 @@ Koidu’s mayor, Saa Emmerson Lamina, led the court battle. He argued that road 
 
 He said he fears there will be further confrontations if the mining company doesn’t change its practices.
 
+
+![alt text](/img/safetyzoneboys.png "Safety zone boys")
+<br>
+*[Photo: Cooper Inveen / GroundTruth for ICIJ]*
+<br>
+*Koidu was a rebel stronghold for much of Sierra Leone's 11-year-civil war, and many of its buildings remain in disrepair.*
+
 ### Mayor Suspended
 
 In 2016, months after the lawsuit was filed, the central government suspended Lamina from office amid allegations of financial mismanagement within Koidu. An audit found a handful of administrative infractions, including an employee who carried city checkbooks with him on holidays and about $8,500 in unaccounted payments to contractors and third parties. No specific charges were made against Lamina.
+
+![alt text](/img/lamina.png "Lamina")
+<br>
+*[Photo: Cooper Inveen / GroundTruth for ICIJ]*
+<br>
+*Koidu mayor Saa Emmerson Lamina was suspended in February, while in the process of taking Octea to court in an attempt to have the company pay property taxes.*
 
 Lamina says the suspension is an effort to silence him. Media reports suggested that the order came from the office of President Ernest Bai Koroma. “The lawsuit did not go down with my political superiors,” Lamina told the International Consortium of Investigative Journalists (ICIJ).
 
@@ -68,6 +87,14 @@ In August 2014, authorities in the British Virgin Islands ordered Mossack Fonsec
 The inquiry related to allegations that people connected to BSG were being investigated in multiple countries for bribes paid to secure mining rights in Guinea. In documents later shared with Mossack Fonseca, BSG’s lawyers confirmed it was under investigation by authorities in Britain, Switzerland and the US. It also challenged the government of Guinea on the grounds that the government unlawfully stripped BSG of its mining rights.
  
 BSG declined to answer specific questions for this article. The company said it “uses offshore companies and related structures as part of its legitimate and fiscally responsible tax planning” and discloses information when and where required. BSG told ICIJ that it had “no familiarity” with a number of the 131 companies that appeared connected to Steinmetz and BSG in Mossack Fonseca’s files.
+
+
+![alt text](/img/landscape.png "Landscape")
+<br>
+*[Photo: Cooper Inveen / GroundTruth for ICIJ]*
+<br>
+*Gravel waste from the mine towers over Koidu in eastern Sierra Leone*
+
 
 ### Community Takes Legal Action
 
