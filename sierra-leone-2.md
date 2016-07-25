@@ -8,6 +8,12 @@ blurb: "A community in Sierra Leone continues to oppose a diamond mining operati
 excerpt: "A community in Sierra Leone continues to oppose a diamond mining operation in its city that has links to murky offshore shell companies and dubious global diamond dealings, write Silas Gbandia, Cooper Inveen, Will Fitzgibbon, Khadija Sharife and Michael Hudson."
 ---
 
+![alt text](/img/landscape.png "Landscape")
+<br>
+*[Photo: Cooper Inveen / GroundTruth for ICIJ]*
+<br>
+*Gravel waste from the mine towers over Koidu in eastern Sierra Leone*
+
 Once or twice a week, as the sun sets on the city of Koidu in eastern Sierra Leone, residents pack their things and head to higher ground. A diamond mine is about to blow.
 
 Some families leave behind boiling cooking pots, or are moved on by police and security forces, before the miners set off charges to blast away the dirt and rock that hide the diamonds. For some in this city of more than 100,000 residents, the explosions remind them of the mortar bombs that fell when Koidu was attacked by rebels during the West African nation’s civil war in the 1990s.
@@ -87,13 +93,6 @@ In August 2014, authorities in the British Virgin Islands ordered Mossack Fonsec
 The inquiry related to allegations that people connected to BSG were being investigated in multiple countries for bribes paid to secure mining rights in Guinea. In documents later shared with Mossack Fonseca, BSG’s lawyers confirmed it was under investigation by authorities in Britain, Switzerland and the US. It also challenged the government of Guinea on the grounds that the government unlawfully stripped BSG of its mining rights.
  
 BSG declined to answer specific questions for this article. The company said it “uses offshore companies and related structures as part of its legitimate and fiscally responsible tax planning” and discloses information when and where required. BSG told ICIJ that it had “no familiarity” with a number of the 131 companies that appeared connected to Steinmetz and BSG in Mossack Fonseca’s files.
-
-
-![alt text](/img/landscape.png "Landscape")
-<br>
-*[Photo: Cooper Inveen / GroundTruth for ICIJ]*
-<br>
-*Gravel waste from the mine towers over Koidu in eastern Sierra Leone*
 
 
 ### Community Takes Legal Action
