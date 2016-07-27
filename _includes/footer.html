@@ -113,6 +113,19 @@
         // arguments to pass to the window.open() function
         popupArgs: 'width=600,height=600,toolbar=0,location=0'
       });
+
+      //Pagination
+      visible_index = 2
+      l = $('#story-container .row').length;
+      for (var i = 2 ; i < l; i++ ) {
+        $($('#story-container .row')[i]).css('display', 'none')
+      }
+      $('.end-row .btn').click(function() {
+        $($('#story-container .row')[visible_index]).css('display', 'block')
+        $($('#story-container .row')[visible_index + 1]).css('display', 'block')
+        visible_index += 2
+        if (visible_index >= l) { $('.end-row .btn').css('display', 'none')}
+      });
     });
   }(jQuery));
 

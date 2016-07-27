@@ -32,8 +32,12 @@ masthead_pic: /img/panama-banner.jpg
     <hr class="branded"/>
     <a name="stories" class="anchor"></a>
     <h1>More Investigations</h1>
-    {% include stories.html %}
-
+    <div id="story-container">
+      {% include stories.html %}
+    </div>
+    <div class="row end-row">
+      <center><button class="btn btn-default">Load more stories</button></center>
+    </div>
 
     <div class="row">
       <div class="col-sm-8 col-sm-offset-2">
