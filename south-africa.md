@@ -57,71 +57,54 @@ Investec subsidiaries
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Investec Administration Services (Jersey) Ltd^ 16*</th>
-    <th class="tg-yw4l"></th>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Corporate Services (Jersey) Limited^ 1718</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Co-Trustees (Jersey) Limited^ 34</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Fiduciary Services (Jersey) Limited^ 1628</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Foundations (Jersey) Limited^ 16</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec GP (Jersey) Limited 6</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Holdings Limited^ 99</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Nominees (Jersey) Limited^ 2679</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Secretaries (Jersey) Limited^ 3272</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Trust (Jersey) Limited^ 9739</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Trustees (Jersey) Limited^ 1950</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Radinvest Limited 28</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l"><strong>Name of bank branch</strong></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Bank (Channel Islands) Limited 812</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l"><strong>Notes</strong></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">^ Sold or liquidated in the year to 31 March 2014</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Source: Investec</td>
-    <td class="tg-yw4l"></td>
   </tr>
 </table>
 
@@ -151,51 +134,42 @@ Investec subsidiaries
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Bayeux Trustees Limited 47*</th>
-    <th class="tg-yw4l"></th>
   </tr>
   <tr>
     <td class="tg-yw4l">Finistere Limited 658</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Finistere Nominees Limited 5</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Finistere Secretaries Limited 1122</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Hero Nominees Limited 24</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">HEV (Guernsey) Limited Zero</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Big Ben Property Fund Limited Zero</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Bank (Channel Islands) Limited 812</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Bank (Channel Islands) Nominees Ltd 59</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Trust (Guernsey) Limited** 6126</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Wealth &amp; Investment (Channel Islands) Limited Zero</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Torch Nominees LimitedSource: Investec<br><br>** Previously Guinness Flight Trustees Limited, now ITG Limited<br><br>*All numbers in the table indicate mentions in the Panama Papers<br></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Torch Nominees Limited </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><i>Source: Investec<br><br>** Previously Guinness Flight Trustees Limited, now ITG Limited<br><br>*All numbers in the table indicate mentions in the Panama Papers<br></i>  </td>
   </tr>
 </table>
 <br>
@@ -222,35 +196,21 @@ Investec subsidiaries
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Investec Protector and Custodian SA ^ 2*</th>
-    <th class="tg-yw4l"></th>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Bank (Switzerland) AG 22</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Trust Holdings AG 6</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Trust (Switzerland) SA^ 3,677</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><strong>Notes</strong></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Notes</td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">^ Sold or liquidated in the year to 31 March 2014</td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Source</td>
-    <td class="tg-yw4l">Investec</td>
+    <td class="tg-yw4l">^ Sold or liquidated in the year to 31 March 2014<br><br><i>Source: Investec</i></td>
   </tr>
 </table>
 
@@ -282,22 +242,16 @@ Investec subsidiaries
 <table class="tg">
   <tr>
     <th class="tg-yw4l">RTC Nominees AG ^ 656*</th>
-    <th class="tg-yw4l"></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">Notes</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><strong>Notes</strong></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">^ Sold or liquidated in the year to 31 March 2014</td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Source: Investec</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">^ Sold or liquidated in the year to 31 March 2014<br>
+    Source: Investec</td>
   </tr>
 </table>
-\* *Number indicates mentions in the Panama Papers*
+\* *Number indicates mentions in the Panama Papers (source: not Investec)*
 <br>
 
 Again, Investec’s own disclosures indicate that it exited much of its British Virgin Islands business during 2013, but retained Finistere Directors and GFT Directors, which both feature in the Panama Papers. 
@@ -317,55 +271,37 @@ Investec subsidiaries
 <table class="tg">
   <tr>
     <th class="tg-yw4l">CODIR Company Direction Limited^ 109*</th>
-    <th class="tg-yw4l"></th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">COMAN Company Management Ltd^ 82</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Curlew Investments Limited 2</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Finistere Directors Limited 1121</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">GFT Directors Limited 1032</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Investec Trustees (BVI) Limited^ 1564</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">ITS Trust Company Limited^ 16</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Lausanne International Investments Limited^ 10</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">RTC Management Limited^ 2261</td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">^ Sold or liquidated in the year to 31 March 2014</td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Source: Investec</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">^ Sold or liquidated in the year to 31 March 2014<br>
+    <i>Source: Investec</i> </td>
   </tr>
 </table>
 \* *All numbers in the table indicate mentions in the Panama Papers*
